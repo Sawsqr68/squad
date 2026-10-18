@@ -192,7 +192,7 @@
   },
   "dependencies": {
     "@bradygaster/squad-sdk": ">=0.11.0",
-    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "ink": "^7.1.1",
     "react": "^19.2.8",
     "jsonc-parser": "^3.3.1",
